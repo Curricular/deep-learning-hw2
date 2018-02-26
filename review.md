@@ -5,7 +5,7 @@
 |Shuo Jiang | sj2363 |
 Willian Zhang|yz3575
 ### Architecture
-![Architecture Graph](./ "Architecture Graph")
+![Architecture Graph](review_images/layers.png "Architecture Graph")
 ### Training Accuracy
 `0.85`
 ### Test Accuracy
@@ -15,9 +15,9 @@ Willian Zhang|yz3575
 ### Size of Training Data
 `36000` images(`80%` of the training data) with randomly distortion for each image
 ### Total Training Loss
-![Training Loss](./ "Training Loss")
+Not recorded yet
 ### Training Accuracy
-![Training Accuracy](./ "Training Accuracy")
+Not recorded yet
 ### Histogram of Weight Gradient
 #### Conv Layer
 Not recorded, sorry.
